@@ -187,11 +187,11 @@ namespace TrackerUI
             this.scoreButton.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.scoreButton.Font = new System.Drawing.Font("Segoe UI Semibold", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.scoreButton.ForeColor = System.Drawing.Color.DodgerBlue;
-            this.scoreButton.Location = new System.Drawing.Point(719, 265);
+            this.scoreButton.Location = new System.Drawing.Point(721, 265);
             this.scoreButton.Name = "scoreButton";
             this.scoreButton.Size = new System.Drawing.Size(117, 49);
             this.scoreButton.TabIndex = 13;
-            this.scoreButton.Text = "button1";
+            this.scoreButton.Text = "Score";
             this.scoreButton.UseVisualStyleBackColor = true;
             // 
             // TournamentViewerForm
